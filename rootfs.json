@@ -156,6 +156,45 @@
     "author": "Droidspaces developers"
   },
   {
+    "name": "Ubuntu 26.04 LTS (Resolute Raccoon) - Minimal",
+    "distro": "Ubuntu",
+    "description": "Minimal Ubuntu 26.04 rootfs with basic packages.",
+    "architecture": "aarch64",
+    "file": "Ubuntu-26.04-Minimal",
+    "download_url": "",
+    "sha256": "",
+    "size_bytes": 0,
+    "version": "",
+    "build_date": "",
+    "author": "Droidspaces developers"
+  },
+  {
+    "name": "Ubuntu 26.04 LTS (Resolute Raccoon) - Base",
+    "distro": "Ubuntu",
+    "description": "Ubuntu 26.04 rootfs with basic packages, development tools, and Docker.",
+    "architecture": "aarch64",
+    "file": "Ubuntu-26.04-base",
+    "download_url": "",
+    "sha256": "",
+    "size_bytes": 0,
+    "version": "",
+    "build_date": "",
+    "author": "Droidspaces developers"
+  },
+  {
+    "name": "Ubuntu 26.04 LTS (Resolute Raccoon) - XFCE",
+    "distro": "Ubuntu",
+    "description": "Ubuntu 26.04 rootfs with basic packages, development tools, Docker and XFCE desktop environment.",
+    "architecture": "aarch64",
+    "file": "Ubuntu-26.04-XFCE",
+    "download_url": "",
+    "sha256": "",
+    "size_bytes": 0,
+    "version": "",
+    "build_date": "",
+    "author": "Droidspaces developers"
+  },
+  {
     "name": "NixOS 26.05 (Yarara) - Minimal",
     "distro": "NixOS",
     "description": "Minimal NixOS rootfs with basic packages with basic packages and latest Systemd. (Runs on Kernel 5.10 and above only)",
