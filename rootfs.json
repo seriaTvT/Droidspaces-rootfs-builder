@@ -10,7 +10,7 @@
     "size_bytes": 10102848,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "Alpine Linux v3.23 - Base",
@@ -23,7 +23,7 @@
     "size_bytes": 234919356,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "Arch Linux - Minimal",
@@ -36,7 +36,7 @@
     "size_bytes": 110906920,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "Arch Linux - Base",
@@ -49,7 +49,7 @@
     "size_bytes": 354665480,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "Debian GNU/Linux 13 (Trixie) - Minimal",
@@ -62,7 +62,7 @@
     "size_bytes": 101409476,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "Debian GNU/Linux 13 (Trixie) - Base",
@@ -75,7 +75,7 @@
     "size_bytes": 347175960,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "Debian 13 GNU/Linux (Trixie) - XFCE",
@@ -88,7 +88,7 @@
     "size_bytes": 632216912,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "Ubuntu 22.04.5 LTS - Minimal",
@@ -101,7 +101,7 @@
     "size_bytes": 70644824,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "Ubuntu 22.04.5 LTS - Base",
@@ -114,7 +114,7 @@
     "size_bytes": 279240656,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "Ubuntu 24.04.04 LTS - Minimal",
@@ -127,7 +127,7 @@
     "size_bytes": 73998096,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "Ubuntu 24.04.04 LTS - Base",
@@ -140,7 +140,7 @@
     "size_bytes": 302916344,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "Ubuntu 24.04.04 LTS - XFCE",
@@ -153,7 +153,7 @@
     "size_bytes": 567207236,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "Ubuntu 26.04 LTS (Resolute Raccoon) - Minimal",
@@ -166,7 +166,7 @@
     "size_bytes": 83316920,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "Ubuntu 26.04 LTS (Resolute Raccoon) - Base",
@@ -179,7 +179,7 @@
     "size_bytes": 323569148,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "Ubuntu 26.04 LTS (Resolute Raccoon) - XFCE",
@@ -192,7 +192,7 @@
     "size_bytes": 581627608,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "NixOS 26.05 (Yarara) - Minimal",
@@ -205,7 +205,7 @@
     "size_bytes": 204216116,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "NixOS 25.11 (Xantusia) - Minimal",
@@ -218,7 +218,7 @@
     "size_bytes": 189369976,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "finix 25.05 - Experimental",
@@ -231,7 +231,7 @@
     "size_bytes": 285773576,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "Azure Linux 3.0 - Minimal",
@@ -244,7 +244,7 @@
     "size_bytes": 86550240,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   },
   {
     "name": "OpenWrt 24.10 - Minimal (iptables-legacy)",
@@ -257,6 +257,6 @@
     "size_bytes": 3001748,
     "version": "v20260720-140156",
     "build_date": "20260720",
-    "author": "Droidspaces developers"
+    "author": "SeriaTvT"
   }
 ]
