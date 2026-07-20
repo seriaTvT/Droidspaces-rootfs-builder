@@ -403,7 +403,7 @@ RUN apt-get purge -y qemu-* binfmt-support || true && \
     # Update package lists
     apt-get update && \
     # Install ONLY these packages (in this specific order)
-    apt-get install -y qemu-user-static && \
+    apt-get install -y qemu-user-binfmt && \
     apt-get install -y binfmt-support && \
     # Add amd64 architecture and install libc6:amd64
     dpkg --add-architecture amd64 && \
