@@ -98,7 +98,6 @@ RUN apt-get update && \
     xfsprogs \
     jfsutils \
     hfsprogs \
-    reiserfsprogs \
     cryptsetup \
     nilfs-tools \
     udftools \

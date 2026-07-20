@@ -101,7 +101,6 @@ RUN apt-get update && \
     xfsprogs \
     jfsutils \
     hfsprogs \
-    reiserfsprogs \
     cryptsetup \
     nilfs-tools \
     udftools \
@@ -157,7 +156,6 @@ RUN apt-get update && \
     gtk2-engines-pixbuf \
     arc-theme \
     numix-gtk-theme \
-    materia-gtk-theme \
     papirus-icon-theme \
     greybird-gtk-theme \
     # Essential fonts for GUI rendering
@@ -191,7 +189,7 @@ RUN apt-get update && \
     docker.io \
     docker-compose-v2 \
     # PolicyKit for permissions
-    policykit-1 \
+    polkitd \
     && apt-get purge -y gdm3 gnome-session gnome-shell whoopsie && \
     apt-get autoremove -y
 
